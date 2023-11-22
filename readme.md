@@ -1,4 +1,3 @@
-Certainly! Below is an example of a README file for a simple To-Do List app. Feel free to customize it based on your app's features, technologies used, or any other specific information you want to include.
 
 ---
 
